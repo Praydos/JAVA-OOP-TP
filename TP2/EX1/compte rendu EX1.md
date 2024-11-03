@@ -1,4 +1,4 @@
-Voici le compte rendu sous forme de texte continu pour les travaux pratiques sur la gestion de bibliothèque en Java :
+
 
 Dans ce projet, nous avons conçu une application en Java pour gérer les informations de personnes, d'adhérents et d'auteurs dans le cadre d'une bibliothèque.
 Le projet comprend la création de plusieurs classes, chacune représentant des entités spécifiques avec leurs attributs et méthodes propres.
