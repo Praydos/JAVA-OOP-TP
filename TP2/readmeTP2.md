@@ -1,4 +1,4 @@
-les details du compte rendu est en fichier readme avec chaque dossier des er=xercice
+les details de chaque exercie est en fichier readme avec chaque dossier des er=xercice
 
 Les quatre exercices présentés consistent à concevoir et à développer des applications Java en utilisant des concepts de programmation orientée objet (POO). Voici un résumé des principales caractéristiques et objectifs de chaque exercice :
 
