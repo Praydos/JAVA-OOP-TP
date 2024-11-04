@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="29c0bf2e-13ce-4e16-b141-a585b82d9467" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../EX1/src/TropViteException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EX1/src/Vehicule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EX2/src/Calculateur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EX2/src/RacineCarreeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Evaluateur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NoteInvalideException.java" afterDir="false" />
+    <list default="true" id="1daa2f85-e2d9-4268-bfe3-e6d7d2886839" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../EX1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX1/out/production/EX1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX1/out/production/EX1/TropViteException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX1/out/production/EX1/Vehicule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX2/out/production/EX2/Calculateur.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX2/out/production/EX2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX2/out/production/EX2/RacineCarreeException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EX3/Evaluateur.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EX3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EX3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EX3/NoteInvalideException.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +31,10 @@
     </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
   "associatedIndex": 2
 }]]></component>
-  <component name="ProjectId" id="2oNaAWZKXtEB6WKLRUPayModXrR" />
+  <component name="ProjectId" id="2oNdAkdfRn306ihGXZGDrEJzpof" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,12 +64,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="29c0bf2e-13ce-4e16-b141-a585b82d9467" name="Changes" comment="" />
-      <created>1730712345970</created>
+      <changelist id="1daa2f85-e2d9-4268-bfe3-e6d7d2886839" name="Changes" comment="" />
+      <created>1730713826838</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1730712345970</updated>
-      <workItem from="1730712347000" duration="380000" />
+      <updated>1730713826838</updated>
+      <workItem from="1730713827759" duration="445000" />
     </task>
     <servers />
   </component>
@@ -71,7 +81,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>13</line>
+          <line>14</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
