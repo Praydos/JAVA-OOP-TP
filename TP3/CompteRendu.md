@@ -1,4 +1,4 @@
-EXERCICE1
+### EXERCICE1
 Ce code Java illustre un système de gestion des exceptions pour surveiller la vitesse d'un véhicule. Le code se compose de trois parties principales : la classe `TropViteException`, la classe `Vehicule`, et la classe `Main`.
 
 La classe `TropViteException` étend la classe `Exception` et est conçue pour indiquer lorsqu'une vitesse est trop élevée. Cette classe n'a pas d'attributs. Son constructeur accepte un paramètre entier représentant la vitesse et passe un message spécifique au constructeur de la classe parente. Ce message inclut la vitesse en question, rendant clair qu'une "TropViteException" (exception de vitesse excessive) s'est produite, ainsi que la vitesse problématique.
@@ -9,7 +9,7 @@ Dans la classe `Main`, point d'entrée du programme, une instance de `Vehicule` 
 
 En résumé, ce code implémente une classe d'exception personnalisée, `TropViteException`, pour gérer les cas de vitesse excessive dans un objet `Vehicule`. Lorsqu'une vitesse supérieure à 90 est détectée, une exception est lancée, et dans la classe `Main`, la trace de la pile est imprimée pour aider à retracer la source de l'exception. Pour correspondre pleinement aux exigences de l'exercice, il est important de tester les deux cas (un avec une exception et un sans) et de gérer l'exception avec un bloc `try-catch`, garantissant ainsi un affichage correct de la pile d'appels lorsque l'exception se produit.
 
-Exercice 2 
+### Exercice 2 
 Voici une version en français du code Java qui gère les exceptions lors du calcul de la racine carrée, en identifiant les nombres négatifs à l'aide d'une exception personnalisée appelée `RacineCarreeException`. Le code se compose de trois parties : la classe `RacineCarreeException`, la classe `Calculateur`, et une méthode `main` pour tester les fonctionnalités.
 
 ### Classe `RacineCarreeException`
